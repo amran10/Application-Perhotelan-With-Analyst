@@ -1,4 +1,4 @@
-# Tugas-perhotelan-dengan-analisiss
+# Application Perhotelan with Analyst
 
 <perhotelan> element group dengan tag pembuka "<" dengan nama element perhotelan ditandai dengan tag penutup "</".
 	<nama>M. Amran Hakim Siregar</nama> element yang ditadai dengan tag pembuka "<" dengan nama elemen "nama" informasi yang berisisi nama dari seseorang dan di akhiri dengan tag penutup "</"
